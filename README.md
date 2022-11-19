@@ -1,4 +1,5 @@
 <h2 align="center">Hello there, I'm Timofey🖖</h2>
+<h3>Backend developer student from Russia🇷🇺</h3>
 
 - 🛠 I'm backend developer
 - 🐍 In love with Python
