@@ -1,2 +1,1 @@
-# TimofeDavidovMain
-Account configurations repository
+Hey 👋, This is Timofey
