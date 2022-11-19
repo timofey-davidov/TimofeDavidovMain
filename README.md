@@ -6,3 +6,4 @@
 - 🇷🇺 Originally from Russia
 - 👀 Interested in Cinematography
 - ⛰ Hiking mountains
+____
